@@ -1,4 +1,4 @@
-public class RecordPlayer {
+public class RecordPlayer extends Component{
 
     public int speed;
 

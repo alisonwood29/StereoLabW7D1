@@ -17,4 +17,6 @@ public class RecordPlayerTest {
         assertEquals(5, recordPlayer.getSpeed());
     }
 
+
+
 }
