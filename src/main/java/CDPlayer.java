@@ -11,7 +11,4 @@ public class CDPlayer extends Component {
         return this.capacity;
     }
 
-    public String play(String cd) {
-        return super.play(cd);
-    }
 }

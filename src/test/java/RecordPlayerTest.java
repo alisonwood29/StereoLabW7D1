@@ -17,6 +17,11 @@ public class RecordPlayerTest {
         assertEquals(5, recordPlayer.getSpeed());
     }
 
+    @Test
+    public void canPlay(){
+        assertEquals("I'm playing this record", recordPlayer.play("this record"));
+    }
+
 
 
 }

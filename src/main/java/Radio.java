@@ -4,7 +4,4 @@ public class Radio extends Component{
         return "Tuned to " + channel;
     }
 
-    public String play(String channel){
-        return super.play(channel);
-    }
 }
